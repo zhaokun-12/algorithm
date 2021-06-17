@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * @Description
+ * 前缀和
  * 523. 连续的子数组和
  * @Author zhaokun
  * @Date 2021/6/2
